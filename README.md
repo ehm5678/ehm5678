@@ -1,4 +1,4 @@
-![https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdyMmk1cGs5ZTBlbWNoeTl3N2FvdnR5cmZkd2ZwdTN1eHhmOWZlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif]
+![Duck Computer Gif] (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdyMmk1cGs5ZTBlbWNoeTl3N2FvdnR5cmZkd2ZwdTN1eHhmOWZlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 
 #  👋 Hi, I’m Elspeth - I'm a Full Stack Developer  
 
