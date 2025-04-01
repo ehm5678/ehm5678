@@ -8,8 +8,8 @@
 I became interested in tech after paralegalling in a legal tech startup, and did some short coding courses outside of work in Python & SQL. I noticed how diversity is a big problem in the tech industry, and later joined Code First Girls, where I worked as a Senior Programmes Coordinator and organised online coding classes for women and non-binary people. I decided to use my passion for inclusive tech and creative problem solving with code to become a developer, and was accepted onto the School of Code’s BC17 bootcamp in 2024
 
 - 🌍 Based in London, UK
-- 📚 Since graduating in October 2024 I’ve been honing my skills in front-end and full-stack engineering. I’m currently working on a restaurant review app to combine my love of food and tech, and have plans to build an AI-supported weather app in the future
-- ✉️ Eager to apply my technical skills and interests in a Junior Full Stack Developer role. Contact me via Linkedin
+- 📚 Since graduating in October 2024 I’ve been honing my skills in full-stack engineering. I’m currently working on a restaurant review app
+- ✉️ Eager to apply my technical skills and interests in a Junior Full Stack Developer / Software Engineer role. Contact me via Linkedin
 
 <h1> 🚀 Projects </h1>
 
@@ -23,3 +23,11 @@ I became interested in tech after paralegalling in a legal tech startup, and did
 - Conducted competitor research and user research analysis
 - Created Next.js components for user profile card and full users list
 - Created design theme and selected font, RGB colour codes and app logo based on colour theory
+
+![Metis Frames](./assets/metis_frames.png)
+
+### **🍔 London Bytes - Restaurant Review App**
+
+**Description**: London Bytes is a restaurant review app showing my favourite spots for food in London. I started this ongoing project to combine my love of food and tech, and to practice my front-end skills
+
+**Tech Stack**: tbh 
