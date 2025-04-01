@@ -11,6 +11,25 @@ I became interested in tech after paralegalling in a legal tech startup, and did
 - 📚 Since graduating in October 2024 I’ve been honing my skills in full-stack engineering. I’m currently working on a restaurant review app
 - ✉️ Eager to apply my technical skills and interests in a Junior Full Stack Developer / Software Engineer role. Contact me via Linkedin
 
+### **Tech Stack**
+<div style="display: flex; flex-wrap; justify-content: center; gap: 2px;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" height="35" alt="JavaScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="35" alt="React" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="35" alt="Next" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="35" alt="TypeScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="35" alt="Node" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" height="35" alt="Express" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="35" alt="HTML" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" height="35" alt="CSS" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="35" alt="Python" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" height="35" alt="Supabase" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="35" alt="Postgresql" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" height="35" alt="AWS" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="35" alt="Docker" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="35" alt="Figma" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="35" alt="Github" style="margin-right: 4px">
+</div>
+
 <h1> 🚀 Projects </h1>
 
 ### **🧠 Metis - Study Buddy Matching App**
