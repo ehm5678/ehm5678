@@ -34,7 +34,7 @@ I became interested in tech after paralegalling in a legal tech startup, and did
 
 ### **🧠 Metis - Study Buddy Matching App**
 
-**Description**: Metis is a study app to help students connect with study partners, I completed this as part of the School of Code final assessment in a team of five. We had 5 days to conduct user research, plan, build and present our app to fellow bootcampers, SoC coaches and mentors, and tech industry members. Our app is ‘Metis’, named after the Greek goddess of wisdom.
+**Description**: Metis is a study app to help students connect with study partners, I completed this as part of the School of Code final assessment in a team of five. We had 5 days to conduct user research, plan, build and present our app to fellow bootcampers, SoC coaches and mentors, and tech industry members. Our app is ‘Metis’, named after the Greek goddess of wisdom. Metis includes authentication, profile creation, database creation & the app has the ability to generate a list of user profiles, excluding the user's own profile
 
 **Tech Stack**: React.js / Next.js, CSS, Supabase, Render, Github
 
