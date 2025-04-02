@@ -47,6 +47,6 @@ I became interested in tech after paralegalling in a legal tech startup, and did
 
 ### **🍔 London Bytes - Restaurant Review App**
 
-**Description**: London Bytes is a restaurant review app showing my favourite spots for food in London. I started this ongoing project to combine my love of food and tech, and to practice my front-end skills
+**Description**: London Bytes is a restaurant review app showing my favourite spots for food in London. I started this ongoing project to combine my love of food and tech, and to practice my front-end skills and learn how to use Tailwind
 
 **Tech Stack**: tbh 
