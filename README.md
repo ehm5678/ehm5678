@@ -30,6 +30,11 @@ I became interested in tech after paralegalling in a legal tech startup, and did
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="35" alt="Github" style="margin-right: 4px">
 </div>
 
+### **I'm currently learning**
+<div style="display: flex; flex-wrap; justify-content: center; gap: 2px;">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="35" alt="Tailwind" style="margin-right: 4px">
+</div>
+
 <h1> 🚀 Projects </h1>
 
 ### **🧠 Metis - Study Buddy Matching App**
